@@ -1,0 +1,39 @@
+C++:
+    Allocators
+    C Library
+    Streams
+    Strings
+    Diagnostics: are provided to deal with exceptions
+    Numerics
+    Locales: facilitate internationalization
+    STL:
+        Containers
+        Iterators
+        Algorithms
+        Adaptors: are objects that change an interface
+        Functors
+        Utilities
+ 
+ Container:
+    sequence:
+        vector
+        list
+        deque
+    associate sequence:
+        set
+        map
+        multiset
+        multimap
+ 
+ vector:
+    behaves like an array, but can grow itself as necessary.
+    size: already in vector
+    capacity: the number of elements the vector can hold before reallocating
+    
+Iterators:
+    provide a way of specifying a position in a container.
+    
+    
+    
+ 
+ 
